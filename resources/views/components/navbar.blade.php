@@ -24,7 +24,7 @@
                 Criar conta
             </a>
             <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="/register">Entidade beneficiadora</a></li>
+                <li><a class="dropdown-item" href="/register">Entidades</a></li>
                 <li><a class="dropdown-item" href="/register-user">Utilizador</a></li>
                 <li><a class="dropdown-item" href="/marketplace/register-salesman">Comerciante</a></li>
             </ul>
