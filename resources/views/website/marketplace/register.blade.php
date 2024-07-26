@@ -22,25 +22,6 @@
                         <li><i class="bi bi-check"></i> <span>Loja online</span></li>
                         <li><i class="bi bi-check"></i> <span>Selo de comerciante solidário</span></li>
                         <li><i class="bi bi-check"></i> <span>Venda de produtos</span></li>
-                        <li class="na"><i class="bi bi-x"></i> <span>Venda de serviços</span></li>
-                        <li class="na"><i class="bi bi-x"></i> <span>Valor da assinatura reverte para causas</span></li>
-                        <li><i class="bi bi-check"></i> <span>Percentagem das vendas reverte para causas</span>
-                        </li>
-                    </ul>
-                    <a href="#" class="btn btn-primary">Assinar agora</a>
-                </div>
-            </div><!-- End Pricing Item -->
-
-            <div class="col-lg-4 aos-init aos-animate" data-aos="zoom-in" data-aos-delay="300">
-                <div class="pricing-item">
-                    <h3>Vendedores de produtos / serviços</h3>
-                    <h4><sup>€</sup>15<span> / mês + % das vendas</span></h4>
-                    <ul>
-                        <li><i class="bi bi-check"></i> <span>Loja online</span></li>
-                        <li><i class="bi bi-check"></i> <span>Selo de comerciante solidário</span></li>
-                        <li><i class="bi bi-check"></i> <span>Venda de produtos</span></li>
-                        <li><i class="bi bi-check"></i> <span>Venda de serviços</span></li>
-                        <li><i class="bi bi-check"></i> <span>Valor da assinatura reverte para causas</span></li>
                         <li><i class="bi bi-check"></i> <span>Percentagem das vendas reverte para causas</span>
                         </li>
                     </ul>
@@ -56,8 +37,6 @@
                         <li><i class="bi bi-check"></i> <span>Loja online</span></li>
                         <li><i class="bi bi-check"></i> <span>Selo de comerciante solidário</span></li>
                         <li class="na"><i class="bi bi-x"></i> <span>Venda de produtos</span></li>
-                        <li><i class="bi bi-check"></i> <span>Venda de serviços</span></li>
-                        <li><i class="bi bi-check"></i> <span>Valor da assinatura reverte para causas</span></li>
                         <li class="na"><i class="bi bi-x"></i> <span>Percentagem das vendas reverte para causas</span>
                         </li>
                     </ul>
