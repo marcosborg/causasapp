@@ -7,7 +7,7 @@
             <div class="row g-5">
                 <div class="col-md-3">
                     <h3 class="footer-heading">Sobre Causas.App</h3>
-                    <p>Campanhas de angariação de fundos realizadas através da venda de rifas.</p>
+                    <p>Campanhas de angariação de fundos para associações realizadas através da criação de sorteios com venda de rifas.</p>
                 </div>
                 <div class="col-md-3">
                     <x-footer-links />
