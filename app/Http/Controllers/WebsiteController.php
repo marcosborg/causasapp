@@ -56,4 +56,12 @@ class WebsiteController extends Controller
 
         return view('website.page', compact('page'));
     }
+
+    public function cms($content_page_id, $slug)
+    {
+
+        $content_page = ContentPage::find($content_page_id);
+
+        return view('website.content_page', compact('content_page'));
+    }
 }

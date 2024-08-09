@@ -3,6 +3,7 @@
 Route::prefix('/')->group(function () {
     Route::get('/', 'WebsiteController@index');
     Route::get('donate/{page_id}/{slug}', 'WebsiteController@page');
+    Route::get('cms/{content_page_id}/{slug}', 'WebsiteController@cms');
 });
 Route::prefix('marketplace')->group(function () {
     Route::get('/', 'MarketplaceController@index');
